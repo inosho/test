@@ -32,3 +32,15 @@
             </table>
     </body>
 </html>
+
+
+/*header.h1{
+    position: fixed;
+    color: white;
+    background-color: darkblue;
+}
+
+table{
+    width: 300px;
+    height: 200px;
+}*/
